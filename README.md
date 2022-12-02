@@ -11,7 +11,7 @@ This repository contains the printable components for the LaserWing MiniFFB kits
 * Shaft to Grip Adapter included is compatible with VKB grips and a VKB 100m extension. 
 	* You can mount Virpil and TM grips with 20x20mm extrusion adapters found on Thingiverse
 
-![Build Plate](image/printing_example.png)
+![Build Plate](Images/printing_example.png)
 
 # Tips
 
