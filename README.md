@@ -18,9 +18,7 @@ This repository contains the printable components for the LaserWing MiniFFB kits
 I've included a reference 3d model of a assembled unit. 
 
 # Future Releases
-Eventually I would like to release this entire project with a open hardware license, but there are various hurdles as I get the kits assembled.
-
-For now there will only be a BOM of hardware and these printable parts. 
+Eventually I would like to release this entire project once I decide on a non-commercial license suitable for my kit parts.
 
 Please let me know if you have need for a CAD model, I may be able to help. 
 
