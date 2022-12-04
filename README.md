@@ -1,6 +1,8 @@
 # LaserWing MiniFFB Printables
 This repository contains the printable components for the LaserWing MiniFFB kits that are freely available and licensed under  **(_CC_ BY-_NC_-_ND 4.0_)**. 
 
+![Item Image](Images/P1000005.png)
+
 **Follow us on [LaserWing.com/MiniFFB](LaserWing.com/MiniFFB)**
 
 # Printing
