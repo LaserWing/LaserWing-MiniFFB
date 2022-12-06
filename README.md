@@ -1,5 +1,8 @@
 # LaserWing MiniFFB Printables
-This repository contains the printable components for the LaserWing MiniFFB kits
+This repository contains the printable components for the LaserWing MiniFFB kits. Each directory has licensing within. Refer to that licensing for that directory alone as licensing varies.
+
+* [Join Our Discord](https://discord.gg/2JPRUfcS5h)
+* [Download Documentations and Assembly Guide](Documentations/Guide.pdf)
 
 ![Item Image](Images/P1000005.png)
 
