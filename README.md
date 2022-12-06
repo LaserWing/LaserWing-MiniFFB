@@ -1,5 +1,5 @@
 # LaserWing MiniFFB Printables
-This repository contains the printable components for the LaserWing MiniFFB kits that are freely available and licensed under  **(_CC_ BY-_NC_-_ND 4.0_)**. 
+This repository contains the printable components for the LaserWing MiniFFB kits
 
 ![Item Image](Images/P1000005.png)
 
@@ -23,10 +23,3 @@ I've included a reference 3d model of a assembled unit.
 Eventually I would like to release this entire project once I decide on a non-commercial license suitable for my kit parts.
 
 Please let me know if you have need for a CAD model, I may be able to help. 
-
-
-# License
-[LaserWing MiniFFB ](http://laserwing.com/MiniFFB)© 2022 by Randal Barlow is licensed under [Attribution-NonCommercial-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
-![CC Logo](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
-
-Please reach out via [email](laserwingusa@pm.com) if you have any questions regarding possible derivative works.
