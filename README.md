@@ -3,10 +3,12 @@ This repository contains the printable components for the LaserWing MiniFFB kits
 
 * [Join Our Discord](https://discord.gg/2JPRUfcS5h)
 * [Download Documentations and Assembly Guide](Documentations/Guide.pdf)
+* Follow us on [LaserWing.com/MiniFFB](LaserWing.com/MiniFFB)
 
 ![Item Image](Images/P1000005.png)
 
-**Follow us on [LaserWing.com/MiniFFB](LaserWing.com/MiniFFB)**
+# Read the Guide
+This is a must. It is short and I believe helpful. Let me know if there is anything you would like to add for future builders.
 
 # Printing
 * Please Print with these general orientations
