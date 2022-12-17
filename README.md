@@ -4,6 +4,7 @@ This repository contains the printable components for the LaserWing MiniFFB kits
 * [Join Our Discord](https://discord.gg/2JPRUfcS5h)
 * [Download Documentations and Assembly Guide](Documentation/Guide.pdf)
 * Follow us on [LaserWing.com/MiniFFB](LaserWing.com/MiniFFB)
+* Kits are on our [Etsy](https://www.etsy.com/listing/1366225901/l) of the laser cut stainless steel parts
 
 ![Item Image](Images/P1000005.png)
 
