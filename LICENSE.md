@@ -1,0 +1,1 @@
+[LaserWing MiniFFB](https://www.laserwing.com/miniffb) © 2022 by Randal Barlow is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
